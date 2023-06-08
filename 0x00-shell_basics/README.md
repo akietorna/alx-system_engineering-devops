@@ -4,3 +4,4 @@
 3-listfiles => lists files/folders in the current directory in long format
 4-listmorefiles => lists files/folders including hidden files/folders in the current directory in long format
 5-listfilesdigitonly => lists files/folders in long format whilst displaying user and group IDs numerically
+6-firstdirectory => creates new directory in tmp dirctory called my_first_directory
