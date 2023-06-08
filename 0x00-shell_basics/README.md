@@ -10,3 +10,4 @@
 9-firstdirdeletion => deletes my_first_directory in the tmp directory
 10-back => moves back to the var directory
 11-lists => lists all files/folders in the current,parent and /boot directories
+12-list_file => prints the file type of the file iamafile
