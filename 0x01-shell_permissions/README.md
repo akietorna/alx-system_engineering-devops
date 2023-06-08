@@ -2,4 +2,5 @@
 1-who_am_i => checks the username
 2-group => checks the groups the current user is in
 3-new_owner => changes the owner to betty
-4-empty => create an empty file called hello
+4-empty => creates an empty file called hello
+5-execute => adds execute priviledge to the hello file
