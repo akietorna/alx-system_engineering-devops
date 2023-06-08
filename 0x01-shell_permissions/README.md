@@ -5,3 +5,4 @@
 4-empty => creates an empty file called hello
 5-execute => adds execute priviledge to the hello file
 6-multiple_premission => adds execute priviledge to owner and group owner and read priviledge to others
+7-everybody => gives execution permission to everyone
