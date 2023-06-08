@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(id -Gu)
+echo $(id -Gn)
