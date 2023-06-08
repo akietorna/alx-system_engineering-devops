@@ -6,4 +6,4 @@
 5-listfilesdigitonly => lists files/folders in long format whilst displaying user and group IDs numerically
 6-firstdirectory => creates new directory in tmp directory called my_first_directory
 7-movethatfile => moves betty from tmp to my_first_directory in tmp
-8-firstdelete => deletes betty from tmp directory
+8-firstdelete => deletes betty from my_first_directory in the tmp directory
