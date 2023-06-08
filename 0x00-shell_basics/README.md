@@ -3,3 +3,4 @@
 2-bring_me_home => sends user to home directory
 3-listfiles => lists files/folders in the current directory in long format
 4-listmorefiles => lists files/folders including hidden files/folders in the current directory in long format
+5-listfilesdigitonly => lists files/folders in long format whilst displaying user and group IDs numerically
