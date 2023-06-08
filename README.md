@@ -1,1 +1,1 @@
-This project focuses on the basics of shell navigation
+This project focuses on the basics of shell navigations
