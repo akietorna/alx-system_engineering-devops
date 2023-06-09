@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo --no-deference chown vincent:staff _hello 
+sudo --preserve-root chown vincent:staff _hello 
