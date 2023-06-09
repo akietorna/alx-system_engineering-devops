@@ -15,3 +15,4 @@
 100-change_owner_and_group =>changes the owner and groupowner names
 101-symbolic_link_permission => changes the permissions on the symbolic link file hello
 102-if_only => changes the owner the file hello to betty only if the owner is guillaume
+103-StarWars => plays StarWars VI from terminal
