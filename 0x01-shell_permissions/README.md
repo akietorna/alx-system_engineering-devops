@@ -8,3 +8,4 @@
 7-everybody => gives execution permission to everyone
 8-James_Bond => stripes off all permissions of user and groupuser andgranting it to others
 9-John_Doe => changed the permisions on hello
+10-mirror_permissions => makes hello copy olleh's permissions
