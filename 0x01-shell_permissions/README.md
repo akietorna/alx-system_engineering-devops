@@ -6,3 +6,4 @@
 5-execute => adds execute priviledge to the hello file
 6-multiple_premission => adds execute priviledge to owner and group owner and read priviledge to others
 7-everybody => gives execution permission to everyone
+8-James_Bond => stripes off all permissions of user and groupuser andgranting it to others 
