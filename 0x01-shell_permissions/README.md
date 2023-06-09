@@ -12,4 +12,5 @@
 11-directories_permissions => makes all subdirestories in current diectory executable
 12-directory_permission => makes adirectory adding permissions to it immediately
 13-change_group => change groupowner to school
-14-change_owner_and_group =>changes the owner and groupowner names
+100-change_owner_and_group =>changes the owner and groupowner names
+101-symbolic_link_permission => changes the permissions on the symbolic link file hello 
