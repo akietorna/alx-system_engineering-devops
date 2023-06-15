@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "hello $(who | awk '{print $1}' | head -n 1)"
+echo -e "hello $(id -u -n)"
