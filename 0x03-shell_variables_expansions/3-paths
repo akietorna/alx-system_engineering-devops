@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PATH" | tr '/' ' ' |tr ':' ' '| wc -w
+echo "$PATH" | tr -s '[:punct:]' ' ' | wc -w
