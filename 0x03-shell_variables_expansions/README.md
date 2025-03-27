@@ -6,3 +6,4 @@
 5-local_variables => list all local and global variables and functions
 6-ceate_local_variable => create a local variable
 7-create_global_variable => creates a global variable
+8-true_knowledge => adds a number and the value of a  variable
