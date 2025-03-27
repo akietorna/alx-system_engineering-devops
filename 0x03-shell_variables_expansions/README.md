@@ -4,3 +4,4 @@
 3-paths => counts the number of directories in a path
 4-global_variables => list all environment variables
 5-local_variables => list all local and global variables and functions
+6-ceate_local_variable => create a local variable
